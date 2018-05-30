@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "68460408295",
+    "firebase_url": "https://fbchat-189412.firebaseio.com",
+    "project_id": "fbchat-189412",
+    "storage_bucket": "fbchat-189412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68460408295:android:6d2d02b6c85dfe2b",
+        "android_client_info": {
+          "package_name": "com.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68460408295-vabeg20sotjv1907268vmfiek1r7r7u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBPDNemlfj37JbzuuyPZw7cY-z0Gr_mDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
